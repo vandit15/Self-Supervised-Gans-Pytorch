@@ -1,5 +1,5 @@
 # Self-Supervised-Gans-Pytorch
-Pytorch implementation of the CVPR'19 paper "Self-Supervised GANs via Auxiliary Rotation Loss"(https://arxiv.org/abs/1811.11212)
+Pytorch implementation of the CVPR'19 paper ["Self-Supervised GANs via Auxiliary Rotation Loss"](https://arxiv.org/abs/1811.11212)
 
 
 Ting Chen, [Xiaohua Zhai](xzhai@google.com)(Google Brain), [Marvin Ritter](marvinritter@google.com)(Google Brain), [Mario Lucic](lucic@google.com)(Google Brain), [Neil Houlsby](neilhoulsby@google.com)(Google Brain)
