@@ -15,6 +15,8 @@ Ting Chen, [Xiaohua Zhai](xzhai@google.com)(Google Brain), [Marvin Ritter](marvi
 ## How it works
 The paper presents a method to combine adverserial training with self-supervised learning. It uses the concept of Auxilliary Rotation Loss. The main idea behind self-supervision is to train a model on a pretext task like predicting rotation angle and then extracting representations from the resulting networks. The discriminator also tries to predict the rotatory angle(0, 90, 180, 270) along with the normal prediction of fake vs real.
 
+![alt-text](https://github.com/vandit15/Self-Supervised-Gans-Pytorch/blob/master/ssgan.png)
+
 ## References
 [official tensorflow implementation](https://github.com/google/compare_gan/tree/master/compare_gan)
 [unofficial tensorflow implementation](https://github.com/zhangqianhui/Self-Supervised-GANs)
