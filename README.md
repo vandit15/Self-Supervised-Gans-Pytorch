@@ -18,5 +18,5 @@ The paper presents a method to combine adverserial training with self-supervised
 ![alt-text](https://github.com/vandit15/Self-Supervised-Gans-Pytorch/blob/master/ssgan.png)
 
 ## References
-[official tensorflow implementation](https://github.com/google/compare_gan/tree/master/compare_gan)
-[unofficial tensorflow implementation](https://github.com/zhangqianhui/Self-Supervised-GANs)
+- [official tensorflow implementation](https://github.com/google/compare_gan/tree/master/compare_gan)
+- [unofficial tensorflow implementation](https://github.com/zhangqianhui/Self-Supervised-GANs)
