@@ -9,6 +9,9 @@ Ting Chen, [Xiaohua Zhai](xzhai@google.com)(Google Brain), [Marvin Ritter](marvi
 - Python (>=3.6)
 - Pytorch (>=1.2.0) 
 
+## Review article of the paper
+[Medium Article](https://towardsdatascience.com/self-supervised-gans-using-auxiliary-rotation-loss-60d8a929b556?source=friends_link&sk=47186ce3b9aa47b5a19e792b1d3e40d4)
+
 ## Training
 `python main.py`
 
